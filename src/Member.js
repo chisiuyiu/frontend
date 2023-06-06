@@ -38,7 +38,7 @@ class Member extends Component {
 					<Table className="mt-4">
 						<thead>
 							<tr>
-								<th>Email</th>
+								<th>Email 1234</th>
 								<th>Password</th>
 								<th>FirstName</th>
 								<th>LastName</th>
