@@ -3,7 +3,7 @@ import { Container, Table } from 'reactstrap';
 import './bootstrap/dist/css/bootstrap.css';
 import MyNavbar from './MyNavbar';
 
-const API = '/api/members';
+const API = 'http://localhost:8582/api/members';
 
 class Member extends Component {
 
